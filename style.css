@@ -1,0 +1,31 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size:50px;
+    color: transparent;
+    text-align: center;
+    background-image:linear-gradient(violet, magenta, turquoise, turquoise);
+    -webkit-background-clip: text;
+    text-decoration: underline;
+}
+h4 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 24px;
+    margin-left: 60px;
+    color: darkblue;
+}
+
+a {
+    font-family:'Courier New', Courier, monospace;
+
+    -webkit-column-count:4;
+    -moz-column-count:4;
+    column-count:4;
+
+    
+   
+   
+}
